@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @originyc
-- 👀 I’m interested in becoming a smart contract developer!
-- 🌱 I’m currently learning Javascript, then Web3.JS.
-- 💞️ I’m looking to collaborate with Solidity devs, I can guarantee I will bring something to the table soon.
+- 👀 I’m interested in being part of this brave new world!
+- 🌱 I’ve got some skills in Python and JS, currently learning Solidity.
+- 💞️ I’m looking for a Web3 mentor - I promise to be a good protege. =)
 - 📫 Email me anytime at originyc@gmail.com
 
 <!---
