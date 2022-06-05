@@ -3,6 +3,7 @@
 - 🌱 I’ve got some skills in Python and JS, currently learning Solidity.
 - 💞️ I’m looking for a Solidity bromance.
 - 📫 Email me anytime at originyc@gmail.com
+- 📃 Check out my credentials [here](https://www.linkedin.com/in/ericbrubin/) 
 
 <!---
 This is just the beginning of my journey, hopefully it's a long and fortuitous road ahead.
